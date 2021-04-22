@@ -5,6 +5,8 @@
  */
 package sentenciaif57297;
 
+import java.util.Scanner;
+
 /**
  *
  * @author Alex
